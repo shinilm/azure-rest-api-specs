@@ -1096,6 +1096,7 @@ maxmemory
 maxpagesize
 maxresults
 MAXSIZE
+maxzoom
 mbaldwin
 Mbps
 MCAS
@@ -1132,6 +1133,7 @@ minimalmetadata
 ministamps
 Minkowski
 mipsle
+minzoom
 mixedreality
 Mkdirs
 mktorest
@@ -1370,6 +1372,7 @@ phraselist
 phraselists
 Pids
 pipelineruns
+piqd
 PITR
 pixelated
 pkcs
@@ -1757,6 +1760,8 @@ southcentralus
 southeastasia
 southindia
 sparkconf
+sparkconfiguration
+sparkconfigurations
 sparkr
 sparql
 SPDX
@@ -1919,10 +1924,12 @@ textanalytics
 TFIDF
 Tful
 Tfvc
+tilejson
 tileset
 tilesets
 timeasc
 timedesc
+timedout
 timeframe
 timegrain
 timeseries
@@ -2219,6 +2226,7 @@ Unparented
 scanrulesets
 Ruleset
 Rulesets
+Ruleproperties
 XLSB
 Miti
 DOCM
